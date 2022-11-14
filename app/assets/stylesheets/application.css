@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+
+
+h2 {
+  margin-left: 20px;
+  font-size: 34px;
+  font-weight: lighter;
+}
+
+p {
+  margin-left: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+div {
+  border-left: 6px solid lightgray;
+  margin-bottom: 15px;
+}
+
+.my_question {
+  margin-left: 20px;
+  background-color: white;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.coach_answer {
+  margin-left: 20px;
+  background-color:beige;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+form {
+  margin-left: 20px;
+}
